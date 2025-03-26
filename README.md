@@ -1,4 +1,4 @@
-###Java Gradle Docker CI/CD Project 🚀###
+**Java Gradle Docker CI/CD Project 🚀**
 
 This project demonstrates a robust Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Java application using GitHub Actions, Gradle, and Docker.
 
