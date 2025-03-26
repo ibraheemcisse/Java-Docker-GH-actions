@@ -1,4 +1,4 @@
-# This workflow will build a Java project with G
+# This workflow will build a Java project with
 name: Java CI with Gradle
 
 on:
