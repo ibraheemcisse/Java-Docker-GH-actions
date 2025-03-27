@@ -1,4 +1,4 @@
-#test
+#testing
 name: Java CI with Gradle
 
 on:
